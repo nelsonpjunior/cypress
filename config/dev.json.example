@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "env": {
+    "email" : "youremail@daimler.de",
+    "password" : "******",
+    "fullname" : "Fake RealName"
+  }
+}

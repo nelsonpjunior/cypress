@@ -1,0 +1,36 @@
+.DS_Store
+node_modules
+coverage
+dist
+build
+.tmp
+lokalise.cfg
+.nyc_output
+videos
+screenshots
+flow-typed
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+cypress.env.json
+config/dev.json
+cypress/videos
+cypress/screenshots
+cypress/fixtures/import_tasks/*.csv*
+
